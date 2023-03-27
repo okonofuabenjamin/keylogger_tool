@@ -53,4 +53,5 @@ elif send_to_email == "n":
 else:
     print("Invalid input")
 
+''' thanks for using my code'''
 
